@@ -22,3 +22,36 @@ select,
 textarea {
     max-width: 280px;
 }
+
+td {
+    border:1px solid black;
+    font-size:10px;
+}
+    tr:nth-of-type(2n) {
+    }
+
+#container {
+    /*margin-left:-70px;*/
+}
+
+.rowheading {
+    background-color:antiquewhite;
+    padding:10px;
+    text-wrap:none;
+    text-align:center;
+
+ }
+
+.cellcontent {
+    padding:5px;
+
+
+}
+
+.columnheading {
+    text-align:center;
+    background-color:burlywood;
+
+}
+
+    
