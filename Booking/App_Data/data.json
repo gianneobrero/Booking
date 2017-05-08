@@ -1,0 +1,22 @@
+{
+  "Booked": [    
+    {
+      "DateFrom": "5-1-2017",
+      "DateTo": "5-5-2017",
+      "Name": "Gianne",
+      "Room": "Room 001"
+    },
+    {
+      "DateFrom": "5-1-2017",
+      "DateTo": "5-15-2017",
+      "Name": "Angelo",
+      "Room": "Room 003"
+    },
+    {
+      "DateFrom": "5-1-2017",
+      "DateTo": "5-5-2017",
+      "Name": "Mark",
+      "Room": "Room 006"
+    }
+  ]
+}
